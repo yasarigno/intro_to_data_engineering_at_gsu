@@ -11,5 +11,8 @@ do
     python app.py "$art"
 done
 
+# use this script as: 
+# bash generator.sh
 
+# you may need to run (only for the first time)
 # chmod +x generator.sh
