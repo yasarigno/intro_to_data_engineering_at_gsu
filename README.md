@@ -3,6 +3,6 @@ A mini course on data engineering in Data Science Master Program at Galatasaray 
 
 <div align="center">
 <img src="./content/app.png" alt="etl" height=800px/>
-<img src="./content/hadoop.png" alt="etl" height=600px/>
-<img src="./content/spark.png" alt="etl" height=600px/>
+<img src="./content/hadoop.png" alt="etl" height=480px/>
+<img src="./content/spark.png" alt="etl" height=480px/>
 </div>
