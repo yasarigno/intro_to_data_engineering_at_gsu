@@ -10,7 +10,7 @@ To use the application.
 python app.py <article>
 ```
 
-by replacing <article> by the name of a wikipedia article. For instance,
+by replacing ``<article>`` by the name of a wikipedia article. For instance,
 
 ```shell
 python app.py "Earth"
